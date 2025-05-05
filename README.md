@@ -4,16 +4,14 @@ Hoobank is a modern, user-friendly e-commerce web application designed to provid
 
 ## Features
 
-Product Catalog Management: Easily browse and manage a wide range of products.
+📚🛒 Product Catalog Management: Easily browse and manage a wide range of products.
 
-Shopping Cart System: Add, remove, and update products in your cart.
+🛍️🗑️ Shopping Cart System: Add, remove, and update products in your cart.
 
-Responsive Design: Optimized for desktops, tablets, and mobile devices.
+📱💻 Responsive Design: Optimized for desktops, tablets, and mobile devices.
 
-Secure Checkout: Simple and secure checkout process.
+⭐📝 User Reviews & Ratings: Users can review and rate products.
 
-User Reviews & Ratings: Users can review and rate products.
+🔍⚙️ Search and Filter: Quickly search for products and filter by categories.
 
-Search and Filter: Quickly search for products and filter by categories.
-
-Real-time Data Updates: Product availability and pricing are updated in real-time.
+⏱️💸 Real-time Data Updates: Product availability and pricing are updated in real-time.
