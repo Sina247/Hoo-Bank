@@ -1,4 +1,4 @@
-## Hoo bank
+## 🏬💻 Hoo bank
 
 Hoobank is a modern, user-friendly e-commerce web application designed to provide a seamless shopping experience. It features a clean interface, product browsing, cart management, and an easy checkout process. Built with cutting-edge front-end technologies, Hoobank offers responsive design, fast performance, and a smooth user interface.
 
