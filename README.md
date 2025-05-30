@@ -1,17 +1,13 @@
-## 🏬💻 Hoo bank
+# 🏦 Hoobank
 
-Hoobank is a modern, user-friendly e-commerce web application designed to provide a seamless shopping experience. It features a clean interface, product browsing, cart management, and an easy checkout process. Built with cutting-edge front-end technologies, Hoobank offers responsive design, fast performance, and a smooth user interface.
+Hoobank is a responsive web app built with React and Vite, designed as a modern banking platform. It offers a sleek and user-friendly interface with features such as account management, transaction history, and real-time updates. Optimized for high performance and scalability, Hoobank delivers a seamless experience on both desktop and mobile devices.
 
-## Features
+---
 
-📚🛒 Product Catalog Management: Easily browse and manage a wide range of products.
-
-🛍️🗑️ Shopping Cart System: Add, remove, and update products in your cart.
-
-📱💻 Responsive Design: Optimized for desktops, tablets, and mobile devices.
-
-⭐📝 User Reviews & Ratings: Users can review and rate products.
-
-🔍⚙️ Search and Filter: Quickly search for products and filter by categories.
-
-⏱️💸 Real-time Data Updates: Product availability and pricing are updated in real-time.
+## 🚀 Features  
+- 💳 **Account management** : Easily view and manage bank accounts.  
+- 📜 **Transaction history** : Track all your transactions with detailed records.  
+- ⏱️ **Real-time updates** : Get instant updates on balances and transactions.  
+- 📱💻 **Responsive design** : Fully optimized for mobile and desktop with smooth layouts.  
+- ⚡ **High performance & scalability** : Built with React and Vite for fast loading and smooth user experience.  
+- 🌐 **Clean and modern UI** : Intuitive design focused on user accessibility and simplicity.
