@@ -8,6 +8,6 @@ Hoobank is a responsive web app built with React and Vite, designed as a modern 
 - 💳 **Account management** : Easily view and manage bank accounts.  
 - 📜 **Transaction history** : Track all your transactions with detailed records.  
 - ⏱️ **Real-time updates** : Get instant updates on balances and transactions.  
-- 📱💻 **Responsive design** : Fully optimized for mobile and desktop with smooth layouts.  
+- 📱 **Responsive design** : Fully optimized for mobile and desktop with smooth layouts.  
 - ⚡ **High performance & scalability** : Built with React and Vite for fast loading and smooth user experience.  
 - 🌐 **Clean and modern UI** : Intuitive design focused on user accessibility and simplicity.
